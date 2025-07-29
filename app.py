@@ -14,7 +14,6 @@ app = Flask(__name__)
 
 
 
-
 mydb = mysql.connector.connect(
 host="localhost", # replace with "Database url for deployment"
 port = 3306,
