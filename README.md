@@ -1,18 +1,102 @@
-Gym management system
-The GYM MANAGEMENT SYSTEM is to automate everything that happens in the gym. It is to aid and simplify the job all those who work for the gym, who train in the gym and who owns the gym. The database consists of daily goals and stats of achievements/progress of a member who trains in the gym, contact details and personal info of everyone, training programs that the gym offers, equipment etc.
+GYM MANAGEMENT SYSTEM
 
-🔥🔥Who is it for🔥🔥
-Gym members
-Admin
-Receptionist  
-Trainers
+📘 Overview
 
-🔥🔥Functionality🔥🔥
+The Gym Management System is designed to automate and simplify all tasks within a gym — from member registration to workout tracking. It helps the admin, trainers, receptionists, and members manage their roles efficiently through a centralized database.
 
-✅Admin - Admin/Owner of the gym can check everyone's attendance ,add a receptionist, delete a receptionist, add a trainer, and delete a trainer, view details of everyone (Receptionist, Trainers, and gym members), add a new member to the gym, delete a member when one is leaving, add equipment, remove equipment.
+The system stores:
 
-✅Gym members - Gym members can login into the system to view their daily goals like their workouts, goals, diet plan, etc. They enter their daily training details. They can edit their personal information like contact details, personal info etc. They can also view their trainers contact info. They can track their progress.
+Member details (contact, personal info, progress)
 
-✅Trainers - Trainer can design and add a workout plan, view all the details; edit their own contact details and personal info; can view all the equipment details available in the gym.
+Training programs & diet plans
 
-✅Receptionist - Receptionist can view contact details of everyone, add a member, delete a member.
+Equipment details
+
+Attendance and performance statistics
+
+
+
+---
+
+👥 Users and Their Roles
+
+1. Admin / Owner
+
+Responsibilities & Functions:
+
+View attendance of all staff and members.
+
+Add or remove receptionists and trainers.
+
+Add or remove gym members.
+
+Manage gym equipment (add/remove).
+
+View complete details of all users (members, trainers, receptionists).
+
+
+
+---
+
+2. Gym Members
+
+Responsibilities & Functions:
+
+Log in to view personal workouts, goals, and diet plans.
+
+Enter daily training achievements or stats.
+
+Edit personal information (contact details, address, etc.).
+
+View their trainer’s contact info.
+
+Track fitness progress and goal completion.
+
+
+
+---
+
+3. Trainers
+
+Responsibilities & Functions:
+
+Design and update workout plans for members.
+
+View member details and gym equipment information.
+
+Edit their own personal and contact information.
+
+
+
+---
+
+4. Receptionist
+
+Responsibilities & Functions:
+
+Add new gym members.
+
+Delete a member’s record when they leave.
+
+View contact details of all users (trainers, members, admin).
+
+
+
+---
+
+⚙️ Key Features Summary
+
+Role	Key Actions
+
+Admin	Manage staff, members, equipment, attendance
+Member	View & update goals, enter progress, manage profile
+Trainer	Create workout plans, view member & equipment info
+Receptionist	Handle member registration and removal
+
+
+
+---
+
+💡 Objective
+
+To digitalize and streamline gym operations, reducing manual work and ensuring real-time access to all relevant data — improving management efficiency, member experience, and overall productivity.
